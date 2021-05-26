@@ -2,8 +2,16 @@
 
 ## Seguimiento de una pelota
 
-- [Video 0.1: Seguimiento de pelota en pantalla](https://youtu.be/Wp0OlhT35a4)
+- [**Video 0.1: Seguimiento de pelota en pantalla**](https://youtu.be/Wp0OlhT35a4)
 
-- [Video 0.2: Seguimiento de pelota con vehículo estático](https://youtu.be/gCUweJSI_6k)
+<a title="Video 0.1: Seguimiento de pelota en pantalla" href="https://youtu.be/Wp0OlhT35a4" target="_blank"><img src="media/Video0.1_thumbnail.PNG" alt="Video0.1_thumbnail" width="500"/></a>
 
-- [![Video 0.1: Seguimiento de pelota en pantalla](https://img.youtube.com/vi/Wp0OlhT35a4/0.jpg)](https://www.youtube.com/watch?v=Wp0OlhT35a4)
+Enlace: https://youtu.be/Wp0OlhT35a4
+
+
+
+- [**Video 0.2: Seguimiento de pelota con vehículo estático**](https://youtu.be/gCUweJSI_6k)
+
+<a title="Video 0.2: Seguimiento de pelota con vehículo estático" href="https://youtu.be/gCUweJSI_6k" target="_blank"><img src="media/Video0.2_thumbnail.jpg" alt="Video0.2_thumbnail" width="500"/></a>
+
+Enlace: https://youtu.be/gCUweJSI_6k
