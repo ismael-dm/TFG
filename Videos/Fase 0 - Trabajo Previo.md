@@ -1,4 +1,4 @@
-# Vídeos fase 0: Trabajo Previo
+# Vídeos Fase 0: Trabajo Previo
 
 ## Seguimiento de una pelota
 
@@ -8,7 +8,7 @@
 
 Enlace: https://youtu.be/Wp0OlhT35a4
 
-
+&nbsp;
 
 - [**Video 0.2: Seguimiento de pelota con vehículo estático**](https://youtu.be/gCUweJSI_6k)
 
