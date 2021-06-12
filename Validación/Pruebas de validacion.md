@@ -8,7 +8,7 @@ El objetivo de estas pruebas es por un lado comprobar que se han cumplido los ob
 
 Primero se muestra un resultado de una reconstrucción correcta bajo condiciones normales:
 
-<img src="media/validacion_normal.png" alt="Resultados normales" width="800"/>
+<img src="media/validacion_normal.png" alt="Resultados normales" width="600"/>
 
 &nbsp;
 
@@ -21,7 +21,7 @@ En este caso el objetivo es probar si el sistema encargado de extraer las caract
 
 A continuación, se muestran algunos ejemplos de reconstrucciones bajo la presencia de reflejos.
 
-<img src="media/validacion_reflejos.png" alt="Resultados prueba de reflejos" width="800"/>
+<img src="media/validacion_reflejos.png" alt="Resultados prueba de reflejos" width="600"/>
 
 &nbsp;
 
@@ -29,7 +29,7 @@ A continuación, se muestran algunos ejemplos de reconstrucciones bajo la presen
 
 A continuación, se muestran algunos ejemplos de reconstrucciones bajo la presencia de sombras.
 
-<img src="media/validacion_sombras.png" alt="Resultados prueba de sombras" width="800"/>
+<img src="media/validacion_sombras.png" alt="Resultados prueba de sombras" width="600"/>
 
 &nbsp;
 
@@ -38,7 +38,7 @@ A continuación, se muestran algunos ejemplos de reconstrucciones bajo la presen
 
 A continuación, se muestran algunos *frames* de las reconstrucciones realizadas en casos de baja iluminación.
 
-<img src="media/validacion_iluminacion.png" alt="Resultados prueba de baja iluminacion" width="800"/>
+<img src="media/validacion_iluminacion.png" alt="Resultados prueba de baja iluminacion" width="600"/>
 
 &nbsp;
 
@@ -56,7 +56,7 @@ Enlace: https://youtu.be/eoNWFBYqqeo
 
 Algunas reconstrucciones con objetos en medio del circuito:
 
-<img src="media/validacion_obj_dentro.png" alt="Resultados prueba con objetos en medio del circuito" width="800"/>
+<img src="media/validacion_obj_dentro.png" alt="Resultados prueba con objetos en medio del circuito" width="600"/>
 
 &nbsp;
 
@@ -64,7 +64,7 @@ Algunas reconstrucciones con objetos en medio del circuito:
 
 A continuación, se muestran algunos ejemplos de reconstrucciones con objetos en la parte exterior del circuito.
 
-<img src="media/validacion_obj_fuera.png" alt="Resultados prueba con objetos fuera del circuito" width="800"/>
+<img src="media/validacion_obj_fuera.png" alt="Resultados prueba con objetos fuera del circuito" width="600"/>
 
 &nbsp;
 
@@ -72,7 +72,7 @@ A continuación, se muestran algunos ejemplos de reconstrucciones con objetos en
 
 A continuación, se muestran algunos *frames* de las reconstrucciones realizadas con las líneas del circuito parcialmente ocultas.
 
-<img src="media/validacion_lineas_ocultas.png" alt="Resultados prueba con objetos en medio del circuito" width="800"/>
+<img src="media/validacion_lineas_ocultas.png" alt="Resultados prueba con objetos en medio del circuito" width="600"/>
 
 &nbsp;
 
@@ -96,4 +96,4 @@ Enlace: https://youtu.be/PdNhqsk8-N0
 
 A continuación, se muestran algunos *frames* de la reconstrucción realizada por el sistema al cambiar el escenario:
 
-<img src="media/validacion_obj_lineas.png" alt="Resultados prueba cambio escenario" width="800"/>
+<img src="media/validacion_obj_lineas.png" alt="Resultados prueba cambio escenario" width="600"/>
