@@ -4,9 +4,11 @@ En este documento se muestran algunas de las pruebas de validación realizadas s
 
 El objetivo de estas pruebas es por un lado comprobar que se han cumplido los objetivos del proyecto, y por otro lado, determinar el alcance del sistema desarrollado. 
 
-## Resultado normal
+# - Pruebas sobre el sistema encargado de seguir el circuito - 
 
-Primero se muestra un resultado de una reconstrucción correcta bajo condiciones normales:
+## Resultado normal extracción líneas
+
+Primero se muestra un resultado de una reconstrucción de las líneas de la carretera correcta bajo condiciones normales:
 
 <img src="media/validacion_normal.png" alt="Resultados normales" width="600"/>
 
@@ -97,3 +99,52 @@ Enlace: https://youtu.be/PdNhqsk8-N0
 A continuación, se muestran algunos *frames* de la reconstrucción realizada por el sistema al cambiar el escenario:
 
 <img src="media/validacion_obj_lineas.png" alt="Resultados prueba cambio escenario" width="600"/>
+
+&nbsp;
+
+&nbsp;
+
+# - Pruebas sobre el sistema encargado de detectar las señales - 
+
+## Resultado normal detección de señales 
+
+A continuación, se muestra un resultado correcto de la detección de señales:
+
+<img src="media/validacion_normal2.png" alt="Resultados normales deteccion de senales" width="600"/>
+
+&nbsp;
+
+## Resultados con señales en distintas posiciones y ángulos
+
+A continuación, se muestran los resultados obtenidos al colocar las señales en diferentes posiciones de las que se ha entrenado, así como en diferentes ángulos:
+
+<img src="media/validacion_angles.png" alt="Resultados iluminacion senales" width="600"/>
+
+&nbsp; 
+
+## Resultados bajo iluminación reducida
+
+A continuación, se muestran los resultados obtenidos bajo situaciones de iluminación reducida: 
+
+<img src="media/validacion_ilum.png" alt="Resultados iluminacion senales" width="600"/>
+
+&nbsp;
+
+## Resultados con distintos tamaños y distancias
+
+A continuación, se muestran los resultados obtenidos al situar las señales más cerca/lejos del circuito:
+
+<img src="media/validacion_sizes.png" alt="Resultados tamano senales" width="600"/>
+
+&nbsp;
+
+## Resultados en distintos escenarios
+
+A continuación, se muestran los resultados obtenidos al modificar el escenario (fondo):
+
+<img src="media/validacion_escenarios.png" alt="Resultados escenarios senales" width="600"/>
+
+&nbsp;
+
+
+
