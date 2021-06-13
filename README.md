@@ -6,7 +6,7 @@ Este repositorio contiene diferentes recursos asociados al Trabajo de Fin de Gra
 
 - Ismael Delgado Muñoz
 
-## Tutor 
+## Tutor :clipboard: 
 
 - Juan Manuel Alonso Weber
 
@@ -28,4 +28,4 @@ El contenido de este repositorio se encuentra organizado de la siguiente forma:
 
 ## Información adicional :mortar_board:
 
-Este proyecto se ha desarrollado bajo el marco de una Beca de Colaboración concedida por el Ministerio de Educación y Formación Profesional de España en la convocatoria 2020/2021.
+El proyecto se ha desarrollado bajo el marco de una Beca de Colaboración concedida por el Ministerio de Educación y Formación Profesional durante la convocatoria 2020/2021.
